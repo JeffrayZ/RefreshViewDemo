@@ -2,3 +2,5 @@
 /.idea/
 /app/app.iml
 /RefreshViewDemo.iml
+/app/build/
+/refreshlibrary/build/
